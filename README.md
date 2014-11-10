@@ -16,3 +16,5 @@ GUIDELINE:
 - http://www.puzzlescript.net/play.html?p=05d5b5b0f128fac2ce68 Byrn Deering
 - http://www.puzzlescript.net/play.html?p=bfe31918403d6a1d6bbd Lily Wang
 - https://www.facebook.com/groups/615425795151425/938887659471902/ Thomas Liu
+
+sort the games in hrnological order, not by random
