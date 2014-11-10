@@ -17,4 +17,4 @@ GUIDELINE:
 - http://www.puzzlescript.net/play.html?p=bfe31918403d6a1d6bbd Lily Wang
 - https://www.facebook.com/groups/615425795151425/938887659471902/ Thomas Liu
 
-sort the games in hrnological order, not by random
+- sort the games in chronological order, not by random
