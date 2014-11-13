@@ -5,4 +5,4 @@ A gallery of all our games!
 DonMillsGameDev.github.io
 
 GUIDELINE:
-  - Each page represents a year. Not a school year, but ACTUAL years (e.g. 2014,2015,2016)
+  - Each page represents a year. Right now it represent actual chronological years, but maybe we'll change it to school years later if it's more convenient.
